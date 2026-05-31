@@ -85,7 +85,7 @@
               {
                 "min_level": 2,
                 "max_level": 2,
-                "species": "SPECIES_WURMPLE"
+                "species": "SPECIES_WOOPER_PALDEA"
               },
               {
                 "min_level": 2,
@@ -94,8 +94,8 @@
               },
               {
                 "min_level": 2,
-                "max_level": 2,
-                "species": "SPECIES_WURMPLE"
+                "max_level": 3,
+                "species": "SPECIES_SIZZLIPEDE"
               },
               {
                 "min_level": 3,
