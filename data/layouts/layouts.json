@@ -9323,6 +9323,16 @@
       "border_height": 2,
       "border_width": 2,
       "layout_version": "frlg"
+    },
+    {
+      "id": "LAYOUT_ROUTE135",
+      "name": "Route135_Layout",
+      "width": 72,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route135/border.bin",
+      "blockdata_filepath": "data/layouts/Route135/map.bin"
     }
   ]
 }
